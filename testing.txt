@@ -6,5 +6,10 @@ dsf
 dfsfs
 sdfdsfdsfsdfdsfsdfsdfdsfdsfsdfdsfdsf
 
+<<<<<<< HEAD
 
 LP TEST
+=======
+aqui cambio Paulo
+Otro cambio /* Carlos Lozano*/ 
+>>>>>>> dfa5e46cfbcd0bcb806cce55b0748e25e8f69dae

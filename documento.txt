@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 LP:CHANGE TEST
+=======
+<<<<<<< HEAD
+william gomez
+=======
+modificacion john
+>>>>>>> 3305885a0401cf714f4c334a18e26918f918fa96
+>>>>>>> dfa5e46cfbcd0bcb806cce55b0748e25e8f69dae
