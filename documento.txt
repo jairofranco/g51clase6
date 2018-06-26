@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 william gomez
+=======
+modificacion john
+>>>>>>> 3305885a0401cf714f4c334a18e26918f918fa96
